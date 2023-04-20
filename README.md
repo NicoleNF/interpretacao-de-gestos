@@ -12,9 +12,9 @@ Aqui, utilizo a interpretação de gestos por meio da webcam do computador, foca
 🛑 Pré-requisitos
 </h2>
 
-[x] Python
-[x] Biblioteca OpenCV
-[x] Ide da sua preferência
+- [x] Python
+- [x] Biblioteca OpenCV
+- [x] Ide da sua preferência
 
 
 <h2>
