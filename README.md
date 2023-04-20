@@ -35,3 +35,5 @@ Projeto criado pelo rofessor: Diego Renan - Education Tech Lead na DIO <a href="
 A plataforma de cursos online: <a href="https://web.dio.me"> DIGITAL INNOVATION ONE </a>
 
 
+Contatos: <a href="https://www.linkedin.com/in/nicole-ferreira-929b841a0/"> LINKEDIN </a>
+
