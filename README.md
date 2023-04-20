@@ -8,9 +8,18 @@ Nesse projeto utilizo a biblioteca de Python OpenCV, desenvolvida pela Intel e a
 
 Aqui, utilizo a interpretação de gestos por meio da webcam do computador, focando na automação de tarefas como inicialização e fechamento de apps. Porém, esse projeto também permite abstrair soluções para aplicação de projetos como um sistema de interpretação de libras, alicações de segurança, trânsito autônomo com identificação de placas e sinalizações em tempo real.
 
-<h3>
+<h2>
+🛑 Pré-requisitos
+</h2>
+
+- [x] Python
+- [x] Biblioteca OpenCV
+- [x] Ide da sua preferência
+
+
+<h2>
 🛑 Áreas de Aplicação
-</h3>
+</h2>
 
 ✅ Identificação de objetos; 
 
@@ -30,7 +39,6 @@ Aqui, utilizo a interpretação de gestos por meio da webcam do computador, foca
 
 ✅ Realidade mista.
 
-Projeto criado pelo rofessor: Diego Renan - Education Tech Lead na DIO <a href="https://www.linkedin.com/in/diego-renan-bruno-48194484/"> LINKEDIN </a>
 
 A plataforma de cursos online: <a href="https://web.dio.me"> DIGITAL INNOVATION ONE </a>
 
