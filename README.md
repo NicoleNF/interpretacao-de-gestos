@@ -39,7 +39,6 @@ Aqui, utilizo a interpretação de gestos por meio da webcam do computador, foca
 
 ✅ Realidade mista.
 
-Projeto criado pelo rofessor: Diego Renan - Education Tech Lead na DIO <a href="https://www.linkedin.com/in/diego-renan-bruno-48194484/"> LINKEDIN </a>
 
 A plataforma de cursos online: <a href="https://web.dio.me"> DIGITAL INNOVATION ONE </a>
 
