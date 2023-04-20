@@ -125,24 +125,22 @@ elif l==3:
         cv2.putText(frame,'3 = Power Point',(0,50), font, 2, (0,0,255), 3, cv2.LINE_AA)
         os.system("start POWERPNT.EXE --window-size=600,400")
 
-elif l==6:
+    elif l==6:
         cv2.putText(frame,'reposition',(0,50), font, 2, (0,0,255), 3, cv2.LINE_AA)
             
-else :
+    else :
         cv2.putText(frame,'reposition',(10,50), font, 2, (0,0,255), 3, cv2.LINE_AA)
             
         #show the windows
         cv2.imshow('mask',mask)
         cv2.imshow('frame',frame)
-     except:
-        pass
+except:
+    pass
         
+k = cv2.waitKey(5) & 0xFF
+if k == 27:
+    break
     
-        k = cv2.waitKey(5) & 0xFF
-        if k == 27:
-        #break
-    
-    cv2.destroyAllWindows()
-        
-    cap.release()    
+cv2.destroyAllWindows()
+cap.release()    
     
