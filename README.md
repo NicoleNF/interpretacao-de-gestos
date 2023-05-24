@@ -6,7 +6,7 @@ Detecção e Interpretação de Gestos
 
 Nesse projeto utilizo a biblioteca de Python OpenCV, desenvolvida pela Intel e amplamente utilizada pela Meta (com o Facebook e Instagram), Amazon, Google e Microsoft para reconhecimento de imagens. Permitindo o trabalho com mais de 350 algoritmos de visão computacional como filtros de imagem, calibração de câmera, reconhecimento de objetos ou análise estrutural, utilizando do processamento de imagens em tempo real.
 
-Aqui, utilizo a interpretação de gestos por meio da webcam do computador, focando na automação de tarefas como inicialização e fechamento de apps. Porém, esse projeto também permite abstrair soluções para aplicação de projetos como um sistema de interpretação de libras, alicações de segurança, trânsito autônomo com identificação de placas e sinalizações em tempo real.
+Aqui, utilizo a interpretação de gestos por meio da webcam do computador, focando na automação de tarefas como inicialização e fechamento de apps. Porém, esse projeto também permite abstrair soluções para aplicação de projetos como um sistema de interpretação de libras, aplicações de segurança, trânsito autônomo com identificação de placas e sinalizações em tempo real.
 
 <h2>
 🛑 Pré-requisitos
